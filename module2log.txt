@@ -1,3 +1,5 @@
+Madelyn Moorehead, Module 2 Log
+
 Script started on Sun Jan 21 15:12:47 2024
 Restored session: Sun Jan 21 15:12:21 PST 2024
 [1m[7m%[27m[1m[0m                                                                                ]7;file://Madelyns-Air.lan/Users/maddie/stc510[0m[27m[24m[J(base) maddie@Madelyns-Air stc510 % [K[?2004httar -xvzf tar.    log.tar.gz[?2004l
